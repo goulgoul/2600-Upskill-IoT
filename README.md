@@ -1,26 +1,27 @@
 # Side Quest _Level-Up IoT_ 
 
+## Cadre du projet
+
+## Connaissances initiales des participants
+
 ## Plan du dépôt
-0. Introduction
-  1. Pourquoi ce projet ?
-  2. PTDR ON EST KI ?
-  3. Cadre de l'étude (cas d'usage de l'appareil)
-4. Aspect légal
-  5. On a le droit ?
-  6. Lois (obligatoires) pour les constructeurs
-  7. Comment déclarer les vulns ? (éthique)
-8. Étude préalable de l'appareil (planning de pentest)
-  9. Architecture (détaillée)
+
+0. Aspect légal
+* On a le droit ?
+* Lois (obligatoires) pour les constructeurs
+* Comment déclarer les vulns ? (éthique)
+0. Étude préalable de l'appareil (planning de pentest)
+  1. Architecture (détaillée)
     1. Architecture simple (osint constructeur)
     2. Interacteurs (usagers)
     3. Architecture étendue + Transferts de données
-  10. Premier axe de recherche : OSINT
-  11. Deuxième axe de recherche : Hardware
+  2. Premier axe de recherche : OSINT
+  3. Deuxième axe de recherche : Hardware
     1. Accès physique n° 1 : port JTAG
     2. Accès physique n° 2 : port UART
-  12. Troisième axe de recherche ...
-13. Pratique
-14. Conclusion
-  15. Résumé
-  16. Ce qu'on a appris sur l'IoT
-  17. Bilan du projet (humain)
+  4. Troisième axe de recherche ...
+5. Pratique
+6. Conclusion
+  7. Résumé
+  8. Ce qu'on a appris sur l'IoT
+  9. Bilan du projet (humain)
