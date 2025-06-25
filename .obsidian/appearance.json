@@ -1,1 +1,8 @@
-{}
+{
+  "showViewHeader": false,
+  "showRibbon": true,
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "textFontFamily": "LiterationMono Nerd Font",
+  "interfaceFontFamily": "LiterationMono Nerd Font"
+}
