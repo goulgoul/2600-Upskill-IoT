@@ -6,22 +6,27 @@
 
 ## Plan du dépôt
 
-0. Aspect légal
-* On a le droit ?
-* Lois (obligatoires) pour les constructeurs
-* Comment déclarer les vulns ? (éthique)
-0. Étude préalable de l'appareil (planning de pentest)
-  1. Architecture (détaillée)
-    1. Architecture simple (osint constructeur)
-    2. Interacteurs (usagers)
-    3. Architecture étendue + Transferts de données
-  2. Premier axe de recherche : OSINT
-  3. Deuxième axe de recherche : Hardware
-    1. Accès physique n° 1 : port JTAG
-    2. Accès physique n° 2 : port UART
-  4. Troisième axe de recherche ...
-5. Pratique
-6. Conclusion
-  7. Résumé
-  8. Ce qu'on a appris sur l'IoT
-  9. Bilan du projet (humain)
+### 1. Questions législatives
+[[master/1. Questions législatives et réglementaires/1.1. Que dit la Loi en France et en Europe ?|1.1. Que dit la Loi en France et en Europe ?]]
+[[master/1. Questions législatives et réglementaires/1.2. Jurisprudences passées|1.2. Jurisprudences passées]]
+[[master/1. Questions législatives et réglementaires/1.3. Questionnements éthiques|1.3. Questionnements éthiques]]
+### 2. Étude préalable en vue d'un audit de l'appareil
+[[2.1. Architecture du produit]]
+[[2.2. Menaces potentielles]]
+[[2.3. Classement des menaces]]
+### 3. Reconnaissance passive (OSInt)
+
+### 4. Audit de la couche physique
+
+### 5. Audit sur la couche réseau
+
+### 6. Audit des applications mobile et Cloud
+
+### 7. Audit de configuration
+
+### 8. Conclusion
+[[8.1. Résumé de l'étude]]
+[[8.2. Ce que nous avons appris]]
+[[8.3. Bilan de cette expérience]]
+### 9. Annexes
+[[9.9. Sources]]
